@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="contact">Доступ к контактам</string>
+    <string name="camera">Доступ к камере</string>
+    <string name="exit">Exit</string>
+    <string name="name">Имя</string>
+    <string name="phone">Номер</string>
+</resources>
